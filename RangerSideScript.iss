@@ -52,5 +52,5 @@ function main()
 
 atom atexit()
 {
-	oc ${Me.Name}: Ranger side script unloaded.
+	oc ${Me.Name}: Ranger side script unloaded
 }
