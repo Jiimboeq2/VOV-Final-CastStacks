@@ -6,6 +6,3 @@ C:\Program Files (x86)\InnerSpace\Scripts\EQ2OgreBot\Save\ProfilesToImport. > ch
 For Temp Adorns, go to C:\Program Files (x86)\InnerSpace\Scripts\EQ2OgreCommon\OgreTempAdorns.
 
 For small things like pre-order buffs, please add them manually if they are not included in the package.
-
-
-For small things like pre-order buffs, please add them manually if they are not included in the package.
